@@ -15,8 +15,8 @@ Este projeto desenvolve um CRUD completo com a lingugem de programação Python 
 - `conn.commit()` salva definitivamente as alterações realizadas no banco de dados.
 
 # Tarefas
-- [ ] Criar conexão com o banco de dados.
-- [ ] Solicitar o dados que serão cadastrados ao usuário.
-- [ ] Inserir registros no banco de dados.
-- [ ] Visualizar registros do banco de dados.
-- [ ] Alterar registros do banco de dados.
+- [x] Criar conexão com o banco de dados.
+- [x] Solicitar o dados que serão cadastrados ao usuário.
+- [x] Inserir registros no banco de dados.
+- [x] Visualizar registros do banco de dados.
+- [x] Alterar registros do banco de dados.
