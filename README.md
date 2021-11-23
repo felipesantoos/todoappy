@@ -20,3 +20,4 @@ Este projeto desenvolve um CRUD completo com a lingugem de programação Python 
 - [x] Inserir registros no banco de dados.
 - [x] Visualizar registros do banco de dados.
 - [x] Alterar registros do banco de dados.
+- [x] Remover registros do banco de dados.
