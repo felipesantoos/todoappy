@@ -3,6 +3,14 @@
 
 Este projeto desenvolve um CRUD completo com a lingugem de programação Python e o SGDB SQLite.
 
+# Como rodar este projeto
+```shell
+git clone https://github.com/felipesantoos/todoappy.git # Clona o repositório.
+cd todoappy/ # Entra na pasta do projeto.
+code . # Abre o projeto no VS Code.
+python3 app.py # Executa o projeto.
+```
+
 # SQLite
 - Python já tem suporte nativo ao SQLite.
 - Só não é indicado para aplicações que recebem muitas conexões simultâneas.
